@@ -1,0 +1,65 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "d021ba186cccb5ad81ca6c69703387b917e3df5e70ad76641cc2d3178f55e7e1"
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "236c1ab4903dafa055f122aef4b00f04e02623fc1aee9b4ab72a9246392ba4df"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "89de993e357a2a10af6a408cd157d947951c65ec8ecd95a7db4eaf52f8359043"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "1f371c864633b2335609498c3ec559abdc5a7ca05555a2a39873075fd04ccfee"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "2ab60686ce7ed6734be3d0c4756fd4ff1ce684a1a651bab79e97389422823813"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "f694e5041866e133c16c2777e98b643011432b0bd8d97f2666722f3758fd8b2d"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "1629bdab584c04d02ac3da81340e0d48b611b6ac6044d677fcdc32d4ba4a4da2"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "ac7ceb740419d62d6ef9c2f9af2cdae2f13476b0ad445d77a6e922feb5b40f33"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "cfff77a6b3c6fd42810c9e2b10e5243258b4949f3935e9e0708f65aed580360c"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "f3a992de3718fbe48624966bd7981cd2862932b502f6aaf2be5b02dd560ab5cc"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "990ac06e16de11d0bfde772bf929d599404b7183fc922d67990fc3dff6c85682"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "dfae39183ee753bc76f63d9c2770b3b92297b028b9437185fc822891c4bb621a"
+metafile = true
