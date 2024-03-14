@@ -5,13 +5,13 @@ file = "LICENSE"
 hash = "d021ba186cccb5ad81ca6c69703387b917e3df5e70ad76641cc2d3178f55e7e1"
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "236c1ab4903dafa055f122aef4b00f04e02623fc1aee9b4ab72a9246392ba4df"
+file = "mods/cloth-config.pw.toml"
+hash = "89de993e357a2a10af6a408cd157d947951c65ec8ecd95a7db4eaf52f8359043"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "89de993e357a2a10af6a408cd157d947951c65ec8ecd95a7db4eaf52f8359043"
+file = "mods/cull-leaves.pw.toml"
+hash = "30226f0e5ea1ff0391385fb132c5042d962f3efe36d1912ba102f918ad025bd8"
 metafile = true
 
 [[files]]
@@ -65,6 +65,21 @@ hash = "990ac06e16de11d0bfde772bf929d599404b7183fc922d67990fc3dff6c85682"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "0997308ff63efc671314e21885e6909f62f8aa3e98b6c7280378db82018a73d9"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "dfae39183ee753bc76f63d9c2770b3b92297b028b9437185fc822891c4bb621a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "e73ce81b1df4033e02667a2efa3296a19155d6041b9ab01921e312577af4c5b7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/round-trees.pw.toml"
+hash = "4d2cba9000207d8588195584bbbbbb9619d8afd78239b79db8c675ad8b553d62"
 metafile = true
