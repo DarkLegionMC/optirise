@@ -10,8 +10,8 @@ hash = "89de993e357a2a10af6a408cd157d947951c65ec8ecd95a7db4eaf52f8359043"
 metafile = true
 
 [[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "30226f0e5ea1ff0391385fb132c5042d962f3efe36d1912ba102f918ad025bd8"
+file = "mods/dark-loading-screen.pw.toml"
+hash = "f761497dd74285c8a500b46118b6eb149efd437f82f0950575b689a5be49af47"
 metafile = true
 
 [[files]]
@@ -70,16 +70,20 @@ hash = "0997308ff63efc671314e21885e6909f62f8aa3e98b6c7280378db82018a73d9"
 metafile = true
 
 [[files]]
+file = "mods/replaymod.pw.toml"
+hash = "e61b49c72f7706fe4b7cfe1d03c2586a54aebd37a1573da484298f9602348c0a"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
-hash = "dfae39183ee753bc76f63d9c2770b3b92297b028b9437185fc822891c4bb621a"
+hash = "6a0403f4bf19873553fb5ce7a68163188587e2b85fc98d2137681af19c8dab6c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-leaves.pw.toml"
-hash = "e73ce81b1df4033e02667a2efa3296a19155d6041b9ab01921e312577af4c5b7"
-metafile = true
+file = "options.txt"
+hash = "0f4642562b7d2b59e419667b32b0c107dcd20806a325dde6ef007270fbe26eb8"
 
 [[files]]
-file = "resourcepacks/round-trees.pw.toml"
-hash = "4d2cba9000207d8588195584bbbbbb9619d8afd78239b79db8c675ad8b553d62"
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "7c44da7cf6fc9068a527e3e01c8a0165a35388addbf33a5035e551cea0621ddb"
 metafile = true
