@@ -20,6 +20,11 @@ hash = "1f371c864633b2335609498c3ec559abdc5a7ca05555a2a39873075fd04ccfee"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "61c72ce5be0869a31c41c078961e451b82724e09e617ea0fb85c91be9e09b892"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "2ab60686ce7ed6734be3d0c4756fd4ff1ce684a1a651bab79e97389422823813"
 metafile = true
@@ -30,6 +35,11 @@ hash = "f694e5041866e133c16c2777e98b643011432b0bd8d97f2666722f3758fd8b2d"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "51c317a3ab72589f7f7856a15421f6a52fe2fc73eb81a1b3dd3269dc92252262"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "1629bdab584c04d02ac3da81340e0d48b611b6ac6044d677fcdc32d4ba4a4da2"
 metafile = true
@@ -37,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "ac7ceb740419d62d6ef9c2f9af2cdae2f13476b0ad445d77a6e922feb5b40f33"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "118176743b4aa94a076aae292b51d7c48d1c05f76a3ca9d5285c202abbdd5c43"
 metafile = true
 
 [[files]]
@@ -60,6 +75,11 @@ hash = "f3a992de3718fbe48624966bd7981cd2862932b502f6aaf2be5b02dd560ab5cc"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "c31480c7df73bbaa0b9bae334b5e3a1775f3412e5d6135076b326fe1c4ef4dab"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "990ac06e16de11d0bfde772bf929d599404b7183fc922d67990fc3dff6c85682"
 metafile = true
@@ -70,18 +90,33 @@ hash = "0997308ff63efc671314e21885e6909f62f8aa3e98b6c7280378db82018a73d9"
 metafile = true
 
 [[files]]
-file = "mods/replaymod.pw.toml"
-hash = "e61b49c72f7706fe4b7cfe1d03c2586a54aebd37a1573da484298f9602348c0a"
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "3e80d36fe7e575900040f31a47026571e72a0acdfb8b5767d484ff4e4bdb0801"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "082d202257610559228e6bea1d1068fe25eba87c306dc4142e874f118ac8949f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "d5b11b9bb4df8cf799eecbece01102e9bd1d83876d93d2b9a15666a1601b7e2b"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6a0403f4bf19873553fb5ce7a68163188587e2b85fc98d2137681af19c8dab6c"
+hash = "dfae39183ee753bc76f63d9c2770b3b92297b028b9437185fc822891c4bb621a"
+metafile = true
+
+[[files]]
+file = "mods/world-host.pw.toml"
+hash = "fd63edaf8dbcb2f64ff68d2d532766d0304cb8dff73f808e6099ca321b88b9ec"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0f4642562b7d2b59e419667b32b0c107dcd20806a325dde6ef007270fbe26eb8"
+hash = "e78439ec7fb1bca2f1259387e3076208831a7ddac48fad455ef2703f84970db5"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"

@@ -1,8 +1,13 @@
 name = "Sodium"
-filename = "sodium-fabric-mc1.16.5-0.2.0 (replaymod compatible).jar"
+filename = "sodium-fabric-mc1.16.5-0.2.0+build.4.jar"
 side = "client"
 
 [download]
-url = "https://www.replaymod.com/download/sodium-fabric-mc1.16.5-0.2.0+rev.f42b4ca.jar"
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar"
 hash-format = "sha1"
-hash = "26298878b7da93a4d1d52b48a6a32de47a03ec8d"
+hash = "bf03460f1f82f355d1fe23a27ee81c3ed24e54dc"
+
+[update]
+[update.modrinth]
+mod-id = "AANobbMI"
+version = "YAGZ1cCS"
