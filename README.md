@@ -2,13 +2,22 @@
 
 Welcome to OptiRise, the ultimate optimization modpack designed for the Fabric loader. Inspired by the legendary OptiFine mod, OptiRise aims to elevate your Minecraft experience to new heights by significantly boosting performance, reducing lag, and enhancing gameplay.
 
-## Key Features:
+## Features
 
-Performance Boost: OptiRise is meticulously optimized to provide a smooth and lag-free gaming experience. Whether you're exploring vast worlds or engaging in intense battles, OptiRise ensures your game runs at peak efficiency.
+OptiRise has a lot features other than optimization!
 
-Graphical Enhancements: From sharper textures to improved lighting and shadows, OptiRise brings your Minecraft world to life with stunning visuals. Experience the game with enhanced details and realism.
+- World Host: Lets you host singleplayer worlds without having to run a server or setup port forwarding
+- LambdaBetterGrass: Adds better grass and snow to the game
+- Default Dark Mode and Dark Loading Screen: Adds dark mode
+- Enhanced Block Entities: Reduces FPS lag with block entities and lets customize them with resource packs
+- Iris Shaders: Lets you use shaders for Minecraft intended to be compatible with existing OptiFine shader packs
+- Ok Zoomer: Adds a highly-configurable zoom key for Fabric
+- Mod Menu: Adds a mod menu to view the list of mods you have installed
+- LambDynamicLights: Adds dynamic lights for Fabric
+- Gamma Utils (Fullbright): Makes it easy to see in the dark. Basically Fullbright for Fabric
+- Item Model Fix: Fixes gaps in generated item models
 
-Customizable Settings: Tailor your game to your preferences with OptiRise's extensive settings menu. Adjust everything from rendering options to performance tweaks, ensuring a personalized and optimized gaming experience.
+Some servers or other people might not allow you to use some features like Fullbright that might give you an unfair advantage over others. USE THESE FEATURES AT YOUR OWN RISK!
 
 ## Why OptiRise?
 
@@ -18,6 +27,6 @@ For New Players: OptiRise is the perfect starting point for new Minecraft player
 
 For Experienced Players: Upgrade your game with OptiRise's advanced optimization features, enhancing your gaming experience even further.
 
-## Get Started with OptiRise:
+## Get Started with OptiRise
 
 OptiRise is more than just an optimization modpack; it's a commitment to delivering the best Minecraft experience possible. Whether you're a casual player or a hardcore gamer, OptiRise is designed to meet your needs.

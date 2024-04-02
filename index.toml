@@ -40,6 +40,11 @@ hash = "51c317a3ab72589f7f7856a15421f6a52fe2fc73eb81a1b3dd3269dc92252262"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "e70eba3ef7a87b3c2929120a3fc1e54454bf5794588868ee425f0a4aadf9feee"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "1629bdab584c04d02ac3da81340e0d48b611b6ac6044d677fcdc32d4ba4a4da2"
 metafile = true
@@ -47,6 +52,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "ac7ceb740419d62d6ef9c2f9af2cdae2f13476b0ad445d77a6e922feb5b40f33"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.pw.toml"
+hash = "33678fd3aff58de05df331f1df651b17a5b5074dc0e674043d46230692011afe"
 metafile = true
 
 [[files]]
