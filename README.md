@@ -16,6 +16,9 @@ OptiRise has a lot features other than optimization!
 - LambDynamicLights: Adds dynamic lights for Fabric
 - Gamma Utils (Fullbright): Makes it easy to see in the dark. Basically Fullbright for Fabric
 - Item Model Fix: Fixes gaps in generated item models
+- AppleSkin: Adds food/hunger-related HUD improvements
+- Eating Animation: Adds sprite animations for edible and drinkable items
+- Emotecraft: Lets you create your own emotes in Minecraft
 
 Some servers or other people might not allow you to use some features like Fullbright that might give you an unfair advantage over others. USE THESE FEATURES AT YOUR OWN RISK!
 

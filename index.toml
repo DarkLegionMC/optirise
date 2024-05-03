@@ -5,6 +5,11 @@ file = "LICENSE"
 hash = "d021ba186cccb5ad81ca6c69703387b917e3df5e70ad76641cc2d3178f55e7e1"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "eacb6755479de6675ffa7d3873f547564f018c1dbbbb8ac811234e170f12a3a8"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "89de993e357a2a10af6a408cd157d947951c65ec8ecd95a7db4eaf52f8359043"
 metafile = true
@@ -20,8 +25,18 @@ hash = "1f371c864633b2335609498c3ec559abdc5a7ca05555a2a39873075fd04ccfee"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "a9dfd60c1b65424e6a93f4028a0073a48d009c206dc245153ea9164521388380"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "61c72ce5be0869a31c41c078961e451b82724e09e617ea0fb85c91be9e09b892"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "90e55858326f8b012e46185b7cee805131ccc635c592bce378f4f5e01a933423"
 metafile = true
 
 [[files]]

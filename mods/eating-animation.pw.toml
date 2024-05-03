@@ -1,0 +1,13 @@
+name = "Eating Animation"
+filename = "eating-animation-1.8.1+1.16.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rUgZvGzi/versions/rplmk8v6/eating-animation-1.8.1%2B1.16.5.jar"
+hash-format = "sha1"
+hash = "d9591f637b4b1ae8fb86fafe0d00504eebe26415"
+
+[update]
+[update.modrinth]
+mod-id = "rUgZvGzi"
+version = "rplmk8v6"
