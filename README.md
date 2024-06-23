@@ -8,7 +8,6 @@ OptiRise has a lot features other than optimization!
 
 - World Host: Lets you host singleplayer worlds without having to run a server or setup port forwarding
 - LambdaBetterGrass: Adds better grass and snow to the game
-- Default Dark Mode and Dark Loading Screen: Adds dark mode
 - Enhanced Block Entities: Reduces FPS lag with block entities and lets customize them with resource packs
 - Iris Shaders: Lets you use shaders for Minecraft intended to be compatible with existing OptiFine shader packs
 - Ok Zoomer: Adds a highly-configurable zoom key for Fabric
@@ -19,6 +18,8 @@ OptiRise has a lot features other than optimization!
 - AppleSkin: Adds food/hunger-related HUD improvements
 - Eating Animation: Adds sprite animations for edible and drinkable items
 - Emotecraft: Lets you create your own emotes in Minecraft
+- Better Ping Display: Adds a configurable numerical ping display to the player list
+- CraftPresence: Completely Customize the way others see you play in Discord!
 
 Some servers or other people might not allow you to use some features like Fullbright that might give you an unfair advantage over others. USE THESE FEATURES AT YOUR OWN RISK!
 

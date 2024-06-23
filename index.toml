@@ -10,13 +10,18 @@ hash = "eacb6755479de6675ffa7d3873f547564f018c1dbbbb8ac811234e170f12a3a8"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "172243dcd0d7bbe78e633df011656ffa0c5d2c3666a2b2307aedcb119137766c"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "89de993e357a2a10af6a408cd157d947951c65ec8ecd95a7db4eaf52f8359043"
 metafile = true
 
 [[files]]
-file = "mods/dark-loading-screen.pw.toml"
-hash = "f761497dd74285c8a500b46118b6eb149efd437f82f0950575b689a5be49af47"
+file = "mods/craftpresence.pw.toml"
+hash = "cb49c001e2edfa55385c46bdd73f2853b948dcf7692d8c59b7c996a670e7b445"
 metafile = true
 
 [[files]]
@@ -142,8 +147,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "e78439ec7fb1bca2f1259387e3076208831a7ddac48fad455ef2703f84970db5"
-
-[[files]]
-file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "7c44da7cf6fc9068a527e3e01c8a0165a35388addbf33a5035e551cea0621ddb"
-metafile = true

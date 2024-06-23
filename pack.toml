@@ -1,13 +1,13 @@
 name = "OptiRise"
 author = "NightLighter423"
-version = "1.6.0+1.16.5"
+version = "1.7.0+1.16.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "40fcb117ffbe802b8252094dcf5bf8c61d4d523d87e98c7fe19f2b802583bcb4"
+hash = "60371d2b76a8049700e3d29668bf76f9c2f2a83599edbf6b9ac8516ace38c935"
 
 [versions]
-fabric = "0.15.9"
+fabric = "0.15.11"
 minecraft = "1.16.5"
