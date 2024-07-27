@@ -120,6 +120,11 @@ hash = "0997308ff63efc671314e21885e6909f62f8aa3e98b6c7280378db82018a73d9"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "4d95894e1a5cd1fcbcd7965403fe2ec22f34d8c0a9b14064e1592a8fff7a3c5e"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "3e80d36fe7e575900040f31a47026571e72a0acdfb8b5767d484ff4e4bdb0801"
 metafile = true
@@ -141,7 +146,12 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "fd63edaf8dbcb2f64ff68d2d532766d0304cb8dff73f808e6099ca321b88b9ec"
+hash = "42cd941b43a36064d8914d4b77720810bcd51dc60b7856be394063cd37962cb2"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair.pw.toml"
+hash = "e497336540922ba2c62bef0d6a2d5db64575a3210353c66f77d6fea7c1fae496"
 metafile = true
 
 [[files]]
