@@ -1,2 +1,0 @@
-version:2586
-resourcePacks:["vanilla","Fabric Mods","file/Default-Dark-Mode-1.16-2023.7.0.zip","lambdabettergrass/default"]

@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "d021ba186cccb5ad81ca6c69703387b917e3df5e70ad76641cc2d3178f55e7e1"
 
 [[files]]
+file = "README.md"
+hash = "5ba23a10e9af4e53ef3dd32e89296d10220cfa817f5dd43a99ed2d6e45bfe91c"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "eacb6755479de6675ffa7d3873f547564f018c1dbbbb8ac811234e170f12a3a8"
 metafile = true
@@ -21,12 +25,12 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "cb49c001e2edfa55385c46bdd73f2853b948dcf7692d8c59b7c996a670e7b445"
+hash = "af0542e9040b37decb4152d7bce1d25ac4031914e748e657e6a3f9da0ba5e642"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "1f371c864633b2335609498c3ec559abdc5a7ca05555a2a39873075fd04ccfee"
+hash = "a537c7427eaaecfc09baab20ccd6a5ad939015b2963ada3e51091f8688c3e72d"
 metafile = true
 
 [[files]]
@@ -106,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c31480c7df73bbaa0b9bae334b5e3a1775f3412e5d6135076b326fe1c4ef4dab"
+hash = "785b9c6a7d9f10d70613b2627c50098dd72f8f011417b40e1437fbcf3cfeec54"
 metafile = true
 
 [[files]]
@@ -145,6 +149,11 @@ hash = "dfae39183ee753bc76f63d9c2770b3b92297b028b9437185fc822891c4bb621a"
 metafile = true
 
 [[files]]
+file = "mods/unilib.pw.toml"
+hash = "0c704913672c8e010d3b3ffbe4d7687da42f928b1d8ee9a46af233ba03cbec62"
+metafile = true
+
+[[files]]
 file = "mods/world-host.pw.toml"
 hash = "42cd941b43a36064d8914d4b77720810bcd51dc60b7856be394063cd37962cb2"
 metafile = true
@@ -153,7 +162,3 @@ metafile = true
 file = "mods/xaeros-minimap-fair.pw.toml"
 hash = "e497336540922ba2c62bef0d6a2d5db64575a3210353c66f77d6fea7c1fae496"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "e78439ec7fb1bca2f1259387e3076208831a7ddac48fad455ef2703f84970db5"
