@@ -6,11 +6,16 @@ hash = "d021ba186cccb5ad81ca6c69703387b917e3df5e70ad76641cc2d3178f55e7e1"
 
 [[files]]
 file = "README.md"
-hash = "5ba23a10e9af4e53ef3dd32e89296d10220cfa817f5dd43a99ed2d6e45bfe91c"
+hash = "d840f10bbf1a1539a2834d6d1603bb89da464505cd68308d297bf80f46469bde"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "eacb6755479de6675ffa7d3873f547564f018c1dbbbb8ac811234e170f12a3a8"
+metafile = true
+
+[[files]]
+file = "mods/better-beds.pw.toml"
+hash = "0dea905158c09daca939be9813f2d0d9265f652957a3e2241b2fb133371ac624"
 metafile = true
 
 [[files]]
@@ -134,6 +139,11 @@ hash = "3e80d36fe7e575900040f31a47026571e72a0acdfb8b5767d484ff4e4bdb0801"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "4370084031d882d324e5b3d451831fdadde6358161be1effdcdce3c1d9703e20"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "082d202257610559228e6bea1d1068fe25eba87c306dc4142e874f118ac8949f"
 metafile = true
@@ -151,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/unilib.pw.toml"
 hash = "0c704913672c8e010d3b3ffbe4d7687da42f928b1d8ee9a46af233ba03cbec62"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "ac9d975a596766397dd28b11a77aeb1d0724ae8b5d78b446efb0e0aa18ac6c1b"
 metafile = true
 
 [[files]]

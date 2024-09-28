@@ -21,7 +21,10 @@ OptiRise has a lot features other than optimization!
 - Better Ping Display: Adds a configurable numerical ping display to the player list
 - CraftPresence: Completely Customize the way others see you play in Discord!
 - Xaero's Minimap (Fair-Play): Displays a map of the nearby world terrain in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
-- Presence Footsteps: Adds new and more dynamic sounds for every block the player walks on. Every block has its own material assigned to it, and can make their own, customized sounds to better match what they're made of.
+- Presence Footsteps: Adds new and more dynamic sounds for every block the player walks on. Every block has its own material assigned to it, and can make their own, customized sounds to better match what they're made of
+- Wavey Capes: Makes capes wave around
+- REI: Lets you view item recipes easier
+- Better Beds: Changes the renderer of the bed to use json models instead of a block entity renderer
 
 Some servers or other people might not allow you to use some features like Fullbright that might give you an unfair advantage over others. USE THESE FEATURES AT YOUR OWN RISK!
 

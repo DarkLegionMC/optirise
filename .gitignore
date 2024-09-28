@@ -1,5 +1,10 @@
 # Exclude exported CurseForge zip files
-*.zip
+**/*.zip
 
 # Exclude exported Modrinth modpacks
-*.mrpack
+**/*.mrpack
+
+# Code Editor/IDE files
+/.vs
+/.vscode
+/.idea

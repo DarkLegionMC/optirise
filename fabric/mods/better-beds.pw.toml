@@ -1,0 +1,13 @@
+name = "Better Beds"
+filename = "betterbeds-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kKwy3HU9/versions/1.1.0/betterbeds-1.1.0.jar"
+hash-format = "sha1"
+hash = "25461e63f31eea51e098ed870dbf08ca248b6c65"
+
+[update]
+[update.modrinth]
+mod-id = "kKwy3HU9"
+version = "CZIcMw8Q"
